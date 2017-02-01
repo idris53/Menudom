@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="storypage_buttonTextSize">17sp</dimen>
+    <dimen name="storypage_label1">63sp</dimen>
+    <dimen name="placepage_label2">25sp</dimen>
+    <dimen name="specializationpage_label3">40sp</dimen>
+    <dimen name="specializationpage_label4">19sp</dimen>
+    <dimen name="menupage_label5">20sp</dimen>
+    <dimen name="menupage_label6">28sp</dimen>
+    <dimen name="button_curve">30dp</dimen>
+    <dimen name="divider_height">8dp</dimen>
+
+</resources>
