@@ -81,7 +81,7 @@ public class PlaceActivity extends Activity {
         background_image.setLayoutParams(lp0);
         relativeLayout.addView(background_image);
 
-
+		//for product image
         float productImageWidth = 1124;
         float productImageHeight = 645;
         productImageWidth = productImageWidth * widthDiff;
